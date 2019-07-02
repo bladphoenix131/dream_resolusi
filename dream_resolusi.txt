@@ -1,4 +1,6 @@
 DREAM RESOLUSI 
 - Saya ingin konsisten belajar seputar pemrograman
 - menjadi full stack Developer
-- membangun aplikasi filantropi konsep membagikan makanan kepada org yg lagi membutuhkan
+- membangun aplikasi Filantropi konsep membagikan makanan kepada org yg lagi membutuhkan
+- kolaborasi dengan developer yg sejalan
+- niat dan tekat yg kuat
